@@ -1,5 +1,5 @@
 {
-  "name": "vssm",
+  "name": "react-vssm",
   "version": "1.0.0",
   "description": "Very Simple State Management",
   "main": "./dist/cjs/index.js",
@@ -32,7 +32,7 @@
     "typescript",
     "state management"
   ],
-  "author": "Caio-Ribeiro3",
+  "author": "Caio Ribeiro (Caio-Ribeiro3)",
   "license": "MIT",
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
